@@ -1,3 +1,0 @@
-# Fruit-Quality-AI-Recognition-Project
-
-I will use Artificial Intelligence and Machine Learning to identify food quality. Using the image database Kaggle, I will classify rotten and healthy food. That way, blind people won't have trouble finding healthy grocery items or picking out nutritious snacks from their kitchen. The project will use audio that explicitly guides the user on how the app works. It will also have great visuals, in case the user is sighted but needs insight (pun intended) on food. The project will give extra important information, making it an excellent platform for education too!
